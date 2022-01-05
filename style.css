@@ -32,6 +32,7 @@ body{
     width: 60%;
 }
 .second{
+    margin-top: 80px;
     text-align: center;
     font-size: xx-large;
     color: rgb(44, 44, 119);
@@ -99,5 +100,37 @@ body{
 .gray-pro{
     color: gray;
     font-size: xx-large;
+}
+.four-section{
+    display: flex;
+    margin-top: 80px;
+}
+.four-part{
+    width: 50%;
+    text-align: justify;
+    margin-left: 80px;
+}
+.four-part img{
+    width: 80%;
+    margin-left: 40px;
+}
+.five-section{
+    display: flex;
+    margin-top: 40px;
+}
+.five-part{
+    width: 50%;
+    text-align: justify;
+    margin-right: 40px;
+}
+.five-part img{
+    width: 80%;
+    margin-left: 40px;
+}
+.finished{
+    background-color: indigo;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
 }
 
