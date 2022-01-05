@@ -84,13 +84,17 @@ body{
 .third-section{
     display: flex;
     margin-top: 80px;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
 }
 .third-part{
     width: 70%;
+    text-align: justify;
+    margin-right: 20px;
 }
 .third-part img{
-    width: 80%;
-    margin-left: 80px;
+    width: 70%;
+    margin-left: 100px;
 }
 .gray-pro{
     color: gray;
