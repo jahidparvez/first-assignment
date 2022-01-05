@@ -81,5 +81,19 @@ body{
 .second-part-lite img{
     width: 300%;
 }
-
+.third-section{
+    display: flex;
+    margin-top: 80px;
+}
+.third-part{
+    width: 70%;
+}
+.third-part img{
+    width: 80%;
+    margin-left: 80px;
+}
+.gray-pro{
+    color: gray;
+    font-size: xx-large;
+}
 
