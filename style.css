@@ -31,3 +31,54 @@ body{
 .flexible img{
     width: 60%;
 }
+.second{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(44, 44, 119);
+}
+.year{
+    color: rgb(8, 228, 63);
+}
+.second-section{
+    display: flex;
+}
+.second-part{
+    width: 25%;
+
+    margin-left: 60px;
+    text-align: justify;
+    background-color: salmon;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+.second-part-pro{
+    width: 25%;
+    margin-left: 30px;
+    text-align: justify;
+
+    background-color: slateblue;
+    border-radius: 20px;
+    padding: 10px 15px;
+
+}
+.second-part-lite{
+    width: 25%;
+    margin-left: 30px;
+    text-align: justify;
+    margin-right: 10px;
+
+    background-color: springgreen;
+    border-radius: 20px;
+    padding: 10px 15px;
+}
+.second-part img{
+    width: 300%;
+}
+.second-part-pro img{
+    width: 300%;
+}
+.second-part-lite img{
+    width: 300%;
+}
+
+
